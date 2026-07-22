@@ -6,9 +6,7 @@ O objetivo foi praticar os conceitos fundamentais de **HTML** e **CSS**, desenvo
 
 ## 📸 Preview do Projeto
 
-```md
 ![Preview do Projeto](./assets/fullscreen.png)
-```
 
 ---
 
